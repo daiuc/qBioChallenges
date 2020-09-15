@@ -7,3 +7,5 @@ Challenges:
 3. Reproducibility
 4. Data Visualization
 5. Stats
+
+Writen in R in Jupyter notebooks
