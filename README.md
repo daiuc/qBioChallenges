@@ -8,4 +8,6 @@ Challenges:
 4. Data Visualization
 5. Stats
 
-Writen in R in Jupyter notebooks
+Writen in R in Jupyter notebooks. 
+
+Click each `.ipynb`. Github will render jupyter notebooks.
